@@ -1,11 +1,11 @@
 
-<center> 🚀 </center>
+<p align='center'> 🚀 </p>
 
 <br/>
 
-# <center>spring-study</center>
+# <p align='center'> spring-study</p>
 
-<center>스프링 기본을 탄탄하게 다지기 위한 스터디 </center>
+<p align='center'>스프링 기본을 탄탄하게 다지기 위한 스터디 </p>
 
 <br/>
 <br/>
