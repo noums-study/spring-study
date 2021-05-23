@@ -12,7 +12,6 @@
 <br>
 
 <br>
-<br>
 
 # IoC
 * Inversion of Control (제어의 역전)
@@ -26,7 +25,6 @@
 * Dependency Injection (의존관계 주입)
 * 컨테이너가 이미 생성된 빈 객체를 필요한 객체한테 주입한다.
 
-<br>
 <br>
 
 ## reference
