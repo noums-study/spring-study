@@ -14,6 +14,7 @@
 
 - 1주차 (2021/05/18 ~ 2021/05/23) - [IoC, SOLID, DI](./2021-05-23/SOLID-IoC-DI.md)
 - 2주차 (2021/05/30) - [빈 자동/수동 등록,의존관계 자동주입, lombok](./2021-05-30/Spring-Bean-Autowired.md)
+- 3주차 (2021/06/12) - [빈 생명주기](./2021-06-12/Spring-Bean-Life-Cycle.md)
 
 
 <br/>
