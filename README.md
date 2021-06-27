@@ -17,6 +17,7 @@
 - 3주차 (2021/06/12) - [빈 생명주기](./2021-06-12/Spring-Bean-Life-Cycle.md)
 - 4주차 (2021/06/19) - [Scope, MVC](./2021-06-19/spring-mvc-scope.md)
 - 5주차 (2021/06/27) - [Interceptor, Filter](./2021-06-27/Filter-Interceptor.md)
+- 6주차 (2021/07/04) - [AOP](./2021-07-04/Aop.md)
 
 
 <br/>
