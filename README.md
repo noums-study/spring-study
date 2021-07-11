@@ -47,5 +47,6 @@
 - [지현](https://github.com/choejee)
 - [나래](https://github.com/mumblecoder)
 - [승연](https://github.com/ssyoni)
+- [주영]()
 
 
