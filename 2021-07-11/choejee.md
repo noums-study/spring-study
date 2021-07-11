@@ -21,7 +21,6 @@
 
 ### AOP 용어
 
-<br>
 
 Target
 - 어떤 대상에 부가 기능을 부여할 것인가
@@ -55,3 +54,10 @@ Weaving
     - 클라이언트에서 타겟을 호출하면 타겟이 아닌 타겟을 감싸고 있는 프록시가 호출되어, 
 	타겟 메소드 실행 전에 선처리, 타겟 메소드 실행 후, 후처리를 실행한다. 
     - AOP에서 프록시는 호출을 가로챈 후, Advice에 등록된 기능을 수행 후 타겟 메소드를 호출한다. 
+
+<br>
+
+### Reference
+https://jojoldu.tistory.com/71
+
+https://www.youtube.com/watch?v=Hm0w_9ngDpM&t=668s
