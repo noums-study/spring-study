@@ -18,6 +18,7 @@
 - 4주차 (2021/06/19) - [Scope, MVC](./2021-06-19/spring-mvc-scope.md)
 - 5주차 (2021/06/27) - [Interceptor, Filter](./2021-06-27/Filter-Interceptor.md)
 - 6주차 (2021/07/11) - [AOP](./2021-07-11/Aop.md)
+- 7주차 (2021/07/18) - [ExceptionHandling](./2021-07-18/ExceptionHandling.md)
 
 
 <br/>
