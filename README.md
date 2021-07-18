@@ -19,7 +19,7 @@
 - 5주차 (2021/06/27) - [Interceptor, Filter](./2021-06-27/Filter-Interceptor.md)
 - 6주차 (2021/07/11) - [AOP](./2021-07-11/Aop.md)
 - 7주차 (2021/07/18) - [ExceptionHandling](./2021-07-18/ExceptionHandling.md)
-- 8ㅈㅜ차 (2021/07/25) - [Cache](./2021-07-25/cache.md)
+- 8주차 (2021/07/25) - [Cache](./2021-07-25/cache.md)
 
 
 <br/>
@@ -49,6 +49,6 @@
 - [지현](https://github.com/choejee)
 - [나래](https://github.com/mumblecoder)
 - [승연](https://github.com/ssyoni)
-- [주영]()
+- [주영](https://github.com/pamyferret)
 
 
